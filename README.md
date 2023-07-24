@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frehiwot-G
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... BSC of computer science and engineering
+- 🌱 BSC in computer science and engineering
 - 💞️ I’m looking to collaborate on ... Website development projects
 - 📫 How to reach me ... by my email address frehiwotgem@gmail.com
 
