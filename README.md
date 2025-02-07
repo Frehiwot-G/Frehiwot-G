@@ -41,11 +41,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frehiwot-G&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Frehiwot-G&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frehiwot-G" alt="GitHub Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frehiwot-G&show_icons=true&locale=en&layout=compact" alt="frehiwot-g" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frehiwot-G&show_icons=true&locale=en" alt="frehiwot-g" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frehiwot-G&" alt="frehiwot-g" /></p>
+
 
 ---
 
