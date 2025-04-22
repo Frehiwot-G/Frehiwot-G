@@ -3,20 +3,22 @@
 <h1 align="center">Hi 👋, I'm Frehiwot Gemechu</h1>
 <h3 align="center">🚀 Passionate Software Developer from Ethiopia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-working-computer-coding-web-development-illustration_1058698-1377.jpg" />
+---
 
-- 🌱 Currently learning **Spring Boot**  
-- 💬 Ask me about **Django, Next.js**  
-- 📫 Reach me at **frehiwotgem@gmail.com**
+### 🌱 Currently Learning
+- Spring Boot
+
+### 💬 Ask Me About
+- Django  
+- Next.js
+
+### 📫 Get in Touch
+- **Email**: frehiwotgem@gmail.com  
+- **LinkedIn**: [linkedin.com/in/frehiwotgemechu](https://linkedin.com/in/frehiwotgemechu)
 
 ---
 
-### 🌐 Connect with Me
-<a href="https://linkedin.com/in/frehiwotgemechu" target="blank"></a>
-
----
-
-### 🛠️ Languages and Tools
+### 🛠️ Languages & Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
@@ -41,13 +43,12 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frehiwot-G&show_icons=true&locale=en&layout=compact" alt="frehiwot-g" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Frehiwot-G&show_icons=true&locale=en" alt="frehiwot-g" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Frehiwot-G&" alt="frehiwot-g" /></p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frehiwot-G&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Frehiwot-G&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frehiwot-G" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 🚀 Let's Build Awesome Software Together!
+<h3 align="center">🚀 Let's Build Awesome Software Together!</h3>
