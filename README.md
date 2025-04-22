@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Connect with Me
-<a href="https://linkedin.com/in/frehiwotgemechu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="frehiwotgemechu" /></a>
+<a href="https://linkedin.com/in/frehiwotgemechu" target="blank"></a>
 
 ---
 
