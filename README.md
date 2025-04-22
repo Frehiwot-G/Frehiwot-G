@@ -5,16 +5,30 @@
 
 ---
 
-### 🌱 Currently Learning
-- Spring Boot
-
-### 💬 Ask Me About
-- Django  
-- Next.js
-
-### 📫 Get in Touch
-- **Email**: frehiwotgem@gmail.com  
-- **LinkedIn**: [linkedin.com/in/frehiwotgemechu](https://linkedin.com/in/frehiwotgemechu)
+<table>
+  <tr>
+    <td>
+      <h3>🌱 Currently Learning</h3>
+      <ul>
+        <li>Spring Boot</li>
+      </ul>
+    </td>
+    <td>
+      <h3>💬 Ask Me About</h3>
+      <ul>
+        <li>Django</li>
+        <li>Next.js</li>
+      </ul>
+    </td>
+    <td>
+      <h3>📫 Get in Touch</h3>
+      <ul>
+        <li>Email: frehiwotgem@gmail.com</li>
+        <li><a href="https://linkedin.com/in/frehiwotgemechu" target="_blank">LinkedIn</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
