@@ -7,16 +7,17 @@
 
 <table>
   <tr>
-    <td>
+    <!-- <td>
       <h3>🌱 Currently Learning</h3>
       <ul>
         <li>Spring Boot</li>
       </ul>
-    </td>
+    </td> -->
     <td>
       <h3>💬 Ask Me About</h3>
       <ul>
         <li>Django</li>
+        <li>Spring Boot</li>
         <li>Next.js</li>
       </ul>
     </td>
